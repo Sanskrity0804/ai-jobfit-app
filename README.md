@@ -44,4 +44,4 @@ Recruiters receive hundreds of resumes per role. This AI-based tool helps quickl
 ## 🔗 Live Demo
 
 👉 Try the app here:  
-**[Click to Open AI JobFit App]((https://ai-jobfit-app-e2bx39fubq2vseevawawfr.streamlit.app/))**
+**((https://ai-jobfit-app-e2bx39fubq2vseevawawfr.streamlit.app/))**
